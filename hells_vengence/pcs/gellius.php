@@ -70,7 +70,7 @@
 			</div>
 			<div class="stats-area">
 				<p>
-					Male human <a href="http://www.d20pfsrd.com/classes/core-classes/fighter" target="_blank">fighter (<a href="http://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo---fighter-archetypes/armor-master" target="_blank">armor master</a>) 3<br />
+					Male human <a href="http://www.d20pfsrd.com/classes/core-classes/fighter" target="_blank">fighter</a> (<a href="http://www.d20pfsrd.com/classes/core-classes/fighter/archetypes/paizo---fighter-archetypes/armor-master" target="_blank">armor master</a>) 3<br />
 					LE Medium humanoid (human)<br /><br />
 					<strong>Init</strong> +3; <strong>Senses</strong> Perception +3<br />
 					<p>
@@ -78,7 +78,7 @@
 
 				<h2>DEFENSE</h2>
 				<p>
-				<p><strong>AC</strong> 18, touch 12, flat-footed 17 (+5 armor, +1 Dex, +2 Shield)<br />
+				<p><strong>AC</strong> 22, touch 11, flat-footed 21 (+9 armor, +1 Dex, +2 Shield)<br />
 				<strong>hp</strong> 32 (3d10+8)<br />
 
 				<strong>Fort</strong> +5, <strong>Ref</strong> +2, <strong>Will</strong> +1</br>
@@ -109,14 +109,14 @@
 				<strong>CMD</strong> 18 (19 vs. sunder or disarm a longsword) </p>
 
 				<p><strong>Feats</strong> Cleave, Dazzling Display, Intimidating Prowess, Power Attack, Weapon Focus (Longsword)</br>
-				<strong>Skills</strong> Climb +5, Intimidate +11, Disguise +4, Escape Artist +11, Knowledge (Planes) +7, Perception +3, Sense Motive +5, Swin +3 </br>
+				<strong>Skills</strong> Climb +3, Handle Animal +8, Intimidate +11, Knowledge (Geography) +3, Knowledge (Planes) +7, Perception +3, Profession (fishmonger) +4, Sense Motive +5, Swin +1 </br>
 
 				<p>
 				<strong>Languages</strong> Common, Infernal</br>
 
 				<strong>Traits</strong> Hellknight Aspirant, Reactionary, Law Enforcer</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> +1 longsword, masterwork manacles, scale mail, heavy wooden shield, longbow with 20 arrows</p>
+				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> +1 longsword, masterwork manacles, longbow with 20 arrows, fighter's kit, fullplate, mitral heavy shield</p>
 			</div>
 
 		</section>

@@ -79,10 +79,10 @@
 
 				<h2>DEFENSE</h2>
 				<p>
-				<p><strong>AC</strong> 18, touch 10, flat-footed 18 (+5 armor, +1 Natural, +2 Shield)<br />
+				<p><strong>AC</strong> 19, touch 10, flat-footed 19 (+6 armor, +1 Natural, +2 Shield)<br />
 				<strong>hp</strong> 24 (3d8+3)<br />
 
-				<strong>Fort</strong> +4, <strong>Ref</strong> +1, <strong>Will</strong> +7
+				<strong>Fort</strong> +5, <strong>Ref</strong> +2, <strong>Will</strong> +8
 				<p>
 				<strong>Resist</strong> Fire 5
 
@@ -90,20 +90,26 @@
 				<p>
 				<p>
 				<strong>Speed</strong> 20 ft.
-				<p><strong>Melee</strong> Heavy Mace +5 (1d8+2) <br />
+				<p><strong>Melee</strong> mwk heavy Mace +5 (1d8+2) <br />
+				<p><strong>Ranged</strong> mwk heavy crossbow +3 (1d10/19-20)<br />
 
 				<p><strong>Special Attacks</strong> Channel Evil 4/day (DC 12, 2d4), Hell's Corruption 7/day
 				</p>
 
-				<p class="collapse"><strong>Dmains's Spell-like Abilities</strong> (CL 3rd; concentration +7)</br>
+				<p class="collapse"><strong>Tiefling Spell-Like Abilities:</strong> (CL 3rd; concentration +7)</br>
+				<p><ul>
+					<li><strong>1/day</strong> - Darkness </li>
+				</ul>
+
+				<p class="collapse"><strong>Domains's Spell-like Abilities</strong> (CL 3rd; concentration +7)</br>
 				<p><ul>
 					<li><strong>7/day</strong> - Fire Bolt (1d6+1)</li>
 				</ul>
 
 				<p class="collapse"><strong>Cleric's Spells</strong> (CL 3rd; concentration +7)</br>
 				<p><ul>
-					<li><strong>2nd </strong> - 2 + Domain</li>
-					<li><strong>1st </strong> - 3 + Domain - Command (DC 15), Inflict Light Wounds (DC 15), Burning Hands<sup>D</sup> (DC 15)</li>
+					<li><strong>2nd </strong> - Align Weapon <sup>D</sup>, Cure Moderate Wounds, Inflict Moderate Wounds</li>
+					<li><strong>1st </strong> - Burning Hands (DC 15)<sup>D</sup> (DC 15), Command (DC 15), Cure Light Wounds, Inflict Light Wounds (DC 15) </li>
 					<li><strong>0th (at will)</strong> - May prepar 4</li>
 				</ul>
 				<p> <strong>D</strong> Domain Spells; <strong>Domains</strong> Fire, Devil
@@ -121,17 +127,17 @@
 				<strong>CMB</strong> +4;
 				<strong>CMD</strong> 14 </p>
 
-				<p><strong>Feats</strong> Scribe Scroll, ONE ADITIONAL FEAT</br>
+				<p><strong>Feats</strong> Channel Smite, Scribe Scroll</br>
 				<strong>Skills</strong> Diplomacy +10, Heal +9, Intimidate +2, Knowledge (Arcana) +6, Knowledge (History) +7, Knowledge (Nobility) +7, Knowledge (Planes) +7, Knowledge (Reglion) +8, Perception +11, Profession (Soldier) +8, Profession (Lawyer) +8, Sense Motive +11, Spell Craft +8</br>
 
 				<p>
-				<strong>Languages</strong> Common, Infernal</br>
-				<strong>SQ</strong> prehensile tail, Spontaneous Casting (inflict)
+				<strong>Languages</strong> Common, Infernal, Abyssal, Celestial</br>
+				<strong>SQ</strong> prehensile tail, Spontaneous Casting (inflict), Fiendish Familiar (Imp named Imprestável)
 				</br>
 
 				<strong>Traits</strong> Scion of the Nine Circles, Fate's Favored, Artisan, Theoretical Magician, Cruelty (Drawback)</br>
 
-				<p><strong>Combat Gear</strong> Wand of Bless (20 charges), Scroll of Cure Light Wounds (3); <strong>Other Gear</strong> Scale Mail, Heavy Steel Shield, Masterwork Heavy Mace, Cleric's Kit</p>
+				<p><strong>Combat Gear</strong> Wand of Bless (18 charges), Scroll of Cure Light Wounds (3); <strong>Other Gear</strong> Masterwork Spiked Breastplate, Heavy Steel Shield, Masterwork Heavy Mace, Cleric's Kit, Clock of Resistance +1, Masterwork Heavy crossbow</p>
 			</div>
 
 		</section>

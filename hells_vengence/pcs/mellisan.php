@@ -80,31 +80,30 @@
 				<p><strong>AC</strong> 12, touch 12, flat-footed 10 (+2 Dex)<br />
 				<strong>hp</strong> 23 (3d6+6)<br />
 
-				<strong>Fort</strong> +4, <strong>Ref</strong> +1, <strong>Will</strong> +7
+				<strong>Fort</strong> +3, <strong>Ref</strong> +3, <strong>Will</strong> +5
 				<p>
-				<strong>Resist</strong> Fire 5
+				<strong>Resist</strong> Cold 5, Electricity 5, Fire 5
 
 				<h2>OFFENSE</h2>
 				<p>
 				<p>
-				<strong>Speed</strong> 30 ft.
-				<p><strong>Melee</strong> Heavy Mace +5 (1d8+2) <br />
+				<strong>Speed</strong> 20 ft.
+				<p><strong>Ranged</strong> mwk heavy crossbow +4 (1d8/19-20) <br />
 
-				<p><strong>Special Attacks</strong> Channel Evil 4/day (DC 12, 2d4), Hell's Corruption 7/day
+				<p><strong>Special Attacks</strong> Hexes (slumber [3 rounds], evil eye [-2, 7 rounds], fortune [1 round], cackle)
 				</p>
 
-				<p class="collapse"><strong>Dmains's Spell-like Abilities</strong> (CL 3rd; concentration +7)</br>
+				<p class="collapse"><strong>Tiefling Spell-Like Abilities:</strong> (CL 3rd; concentration +7)</br>
 				<p><ul>
-					<li><strong>7/day</strong> - Fire Bolt (1d6+1)</li>
+					<li><strong>1/day</strong> - Darkness </li>
 				</ul>
 
-				<p class="collapse"><strong>Cleric's Spells</strong> (CL 3rd; concentration +7)</br>
+				<p class="collapse"><strong>Witch's Spells</strong> (CL 3rd; concentration +7)</br>
 				<p><ul>
-					<li><strong>2nd </strong> - 2 + Domain</li>
-					<li><strong>1st </strong> - 3 + Domain - Command (DC 15), Inflict Light Wounds (DC 15), Burning Hands<sup>D</sup> (DC 15)</li>
-					<li><strong>0th (at will)</strong> - May prepar 4</li>
+					<li><strong>2nd </strong> - May prepare 2</li>
+					<li><strong>1st </strong> - May prepare 3</li>
+					<li><strong>0th (at will)</strong> - May prepare 4</li>
 				</ul>
-				<p> <strong>D</strong> Domain Spells; <strong>Domains</strong> Fire, Devil
 
 				<h2>STATISTICS</h2>
 				<p>
@@ -115,19 +114,19 @@
 				<strong>Wis</strong> 18,
 				<strong>Cha</strong> 12</br>
 
-				<strong>Base Atk</strong> +2;
-				<strong>CMB</strong> +4;
-				<strong>CMD</strong> 14 </p>
+				<strong>Base Atk</strong> +1;
+				<strong>CMB</strong> +1;
+				<strong>CMD</strong> 13 </p>
 
-				<p><strong>Feats</strong> Scribe Scroll, ONE ADITIONAL FEAT</br>
-				<strong>Skills</strong> Diplomacy +10, Heal +9, Intimidate +2, Knowledge (Arcana) +6, Knowledge (History) +7, Knowledge (Nobility) +7, Knowledge (Planes) +7, Knowledge (Reglion) +8, Perception +11, Profession (Soldier) +8, Profession (Lawyer) +8, Sense Motive +11, Spell Craft +8</br>
+				<p><strong>Feats</strong> Extra Hex (2)</br>
+				<strong>Skills</strong> Bluff +9, Craft (Jewelry) +8, Fly +1, Heal +7, Intimidate +10, Knowledge (Arcana) +6, Knowledge (Arcana) +10, Knowledge (History) +9, Knowledge (Local) +5, Knowledge (Nature) +8, Knowledge (Nobility) +10, Linguistics +5, Spell Craft +10, Use Magic Device +6</br>
 
 				<p>
-				<strong>Languages</strong> Common, Infernal</br>
-				<strong>SQ</strong> prehensile tail, Spontaneous Casting (inflict)
+				<strong>Languages</strong> Common, Infernal, Abyssal, Elven, Goblin, Draconic, Celestial</br>
+				<strong>SQ</strong> Patron (time), Familiar (Cat named Anakin), Fiendish Sorcery
 				</br>
 
-				<strong>Traits</strong> Scion of the Nine Circles, Fate's Favored, Artisan, Theoretical Magician, Cruelty (Drawback)</br>
+				<strong>Traits</strong> Chelish Noble, Clever Wordplay, Extremely Fashionable</br>
 
 				<p><strong>Combat Gear</strong> Wand of Bless (20 charges), Scroll of Cure Light Wounds (3); <strong>Other Gear</strong> Scale Mail, Heavy Steel Shield, Masterwork Heavy Mace, Cleric's Kit</p>
 			</div>

@@ -69,7 +69,7 @@
 			</div>
 			<div class="stats-area">
 				<p>
-					Male tiefling <a href="http://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained" target="_blank">unchained rougue (<a href="http://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo---rogue-archetypes/knife-master" target="_blank">knife master</a>) 3<br />
+					Male tiefling <a href="http://www.d20pfsrd.com/classes/unchained-classes/rogue-unchained" target="_blank">unchained rougue</a> (<a href="http://www.d20pfsrd.com/classes/core-classes/rogue/archetypes/paizo---rogue-archetypes/knife-master" target="_blank">knife master</a>) 3<br />
 					CE Small outsider (native)<br /><br />
 					<strong>Init</strong> +7; <strong>Senses</strong> darkvision 60 ft.; Perception +6<br />
 					<p>
@@ -83,14 +83,13 @@
 				<strong>Fort</strong> +5, <strong>Ref</strong> +5, <strong>Will</strong> +2;
 				+1 vs. mind-affecting effects</br>
 				<p>
-				<strong>Resist</strong> Fire 5; <br />
-				<strong>Defensive Abilities:</strong> evasion, blade sense (+1 dodge bonus to AC against light blades)
+				<strong>Resist</strong> Fire 5; <strong>Defensive Abilities:</strong> evasion, blade sense (+1 dodge to AC vs. light blades)
 
 				<h2>OFFENSE</h2>
 				<p>
 				<strong>Speed</strong> 30 ft.
 				<p><strong>Melee</strong> mwk dagger +9 (1d3+5/19-20) or mwk dagger +7/+7 (1d3+5/19-20)<br />
-				<p><strong>Ranged</strong> mwk hand crossbow x1 +9 (1d3/19-20)<br />
+				<p><strong>Ranged</strong> mwk hand crossbow +9 (1d3/19-20)<br />
 
 				<p><strong>Special Attacks</strong> Finesse Training (Dagger), Sneak Stab 2d8, Sneak Attack 2d4</p>
 
@@ -112,8 +111,8 @@
 				<strong>CMB</strong> +1;
 				<strong>CMD</strong> 16 </p>
 
-				<p><strong>Feats</strong> Double Slice, Two-Weapon Fighting, Weapon Finesse B</br>
-				<strong>Skills</strong> Acrobatics +11, Appraise +8, Bluff +7, Climb +6, Disable Device +13, Disguise +4, Escape Artist +11, Intimidate +4, Knowledge (engineering) +7, Knowledge (local) +7, Linguistics +6, Perception +6, Sleight of Hand +10, Stealth +17, Swin +4 </br>
+				<p><strong>Feats</strong> Double Slice, Two-Weapon Fighting, Weapon Finesse<sup>B</sup></br>
+				<strong>Skills</strong> Acrobatics +11, Appraise +8, Bluff +7, Climb +6, Disable Device +13, Disguise +4, Escape Artist +11, Intimidate +4, Knowledge (Dungeoneering) +7, Knowledge (Local) +7, Linguistics +6, Perception +6, Sleight of Hand +10, Stealth +17, Swin +4 </br>
 
 				<p>
 				<strong>Languages</strong> Common, Halfling, Infernal, Celestial</br>
@@ -121,7 +120,7 @@
 				</br>
 				<strong>Traits</strong> Erratic Malefactor, Rich Parents, Shadow Stabber, Armor Expert, Paranoid (drawback)</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> small masterwork dagger (2), small masterwork buckler, small masterwork studded leather, masterwork thief's tools, masterwork hand crossbow with 10 bolts</p>
+				<p><strong>Combat Gear</strong> alchemichal fire, smokestick; <strong>Other Gear</strong> small masterwork dagger (2), small masterwork buckler, small masterwork studded leather, masterwork thief's tools, masterwork hand crossbow with 10 bolts, glass cutts, glue paper</p>
 			</div>
 
 		</section>

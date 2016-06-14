@@ -66,7 +66,7 @@
 			</div>
 			<div class="stats-area">
 				<p>
-					Male human <a href="http://www.d20pfsrd.com/classes/hybrid-classes/warpriest" target="_blank">warpriest of Sabnach (<a href="http://www.d20pfsrd.com/classes/hybrid-classes/warpriest/archetypes/paizo---warpriest-archetypes/forgepriest" target="_blank">forgepriest</a>) 3<br />
+					Male human <a href="http://www.d20pfsrd.com/classes/hybrid-classes/warpriest" target="_blank">warpriest of Sabnach</a> (<a href="http://www.d20pfsrd.com/classes/hybrid-classes/warpriest/archetypes/paizo---warpriest-archetypes/forgepriest" target="_blank">forgepriest</a>) 3<br />
 					LE Medium humanoid (human)<br /><br />
 					<strong>Init</strong> +1; <strong>Senses</strong> Perception +3<br />
 					<strong>Aura</strong> aura (evil, lawful)<br />
@@ -75,7 +75,7 @@
 
 				<h2>DEFENSE</h2>
 				<p>
-				<p><strong>AC</strong> 18, touch 11, flat-footed 17 (+7 armor, +1 Dex)<br />
+				<p><strong>AC</strong> 20, touch 11, flat-footed 19 (+9 armor, +1 Dex)<br />
 				<strong>hp</strong> 30 (3d8+9)<br />
 
 				<strong>Fort</strong> +5, <strong>Ref</strong> +2, <strong>Will</strong> +6; +2 vs. mind-effects of Good outsider	</br>
@@ -94,7 +94,7 @@
 				<p class="collapse"><strong>Warpriest's Spells</strong> (CL 3rd; concentration +6)</br>
 				<p><ul>
 					<li><strong>1st</strong> - Divine favor (2); Shield; Shield of Faith</li>
-					<li><strong>0th (at will </strong> - Mending, Stabilize, Guidance, Resistance, Detect Poison</li>
+					<li><strong>0th (at will) </strong> - Mending, Stabilize, Guidance, Resistance, Detect Poison</li>
 				</ul>
 
 				<h2>STATISTICS</h2>
@@ -111,7 +111,7 @@
 				<strong>CMD</strong> 17 </p>
 
 				<p><strong>Feats</strong> Craft Magic Arms and Armor, Craft Wondrous Itens, Skill Focus (Craft [Armor]), Toughness, Weapon Focus (Forgehammer) </br>
-				<strong>Skills</strong> Craft (Armor) +16, Craft (Weapon) +10, Knowledge (Planes) +8, Knowledge (Religion) +5, Sense Motive +7, Spell Craft +9, Survival +7 </br>
+				<strong>Skills</strong> Craft (Armor) +15, Craft (Weapon) +11, Knowledge (Planes) +8, Knowledge (Religion) +5, Sense Motive +7, Spell Craft +9, Survival +7 </br>
 
 				<p>
 				<strong>Languages</strong> Common, Infernal, Halfling</br>
@@ -120,7 +120,7 @@
 
 				<strong>Traits</strong> Scion of the Nine Circles, Fate's Favored, Artisan, Theoretical Magician, Cruelty (Drawback)</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> Forgehammer (Strong, Deadly, Artisan Tool), Warpriest's Kit, Masterwork Artisan's Tool, Banded Mail, Gladius, masterwork Light Crossbow</p>
+				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> Forgehammer (Strong, Deadly, Artisan Tool), Warpriest's Kit, Masterwork Artisan's Tool, Fullplate, Gladius, masterwork Light Crossbow</p>
 			</div>
 
 		</section>
