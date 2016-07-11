@@ -35,7 +35,7 @@
 <div id="wrapper">
 	<div id="aedram-container">
 		<header>
-			<h1><img src="../images/Silver_Ravens.png" id="silverRavens">Rogar <span id="cr">Level 3</span></h1>
+			<h1><img src="../images/Silver_Ravens.png" id="silverRavens">Rogar <span id="cr">Level 4</span></h1>
 			<h2>Meio-orc alto, forte, cabelo preto e comprido, barba curta. Usa roupas que lembram as de um lenhador um pouco rasgadas.</h2>
 
 		</header>
@@ -46,17 +46,17 @@
 			</div>
 			<div class="stats-area">
 				<p>
-					Male half-orc <a href="http://www.d20pfsrd.com/classes/hybrid-classes/brawler" target="_blank">brawler (<a href="http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/mutagenic-mauler" target="_blank">mutagenic mauler</a>) 3<br />
+					Male half-orc <a href="http://www.d20pfsrd.com/classes/hybrid-classes/brawler" target="_blank">brawler<a/> (<a href="http://www.d20pfsrd.com/classes/hybrid-classes/brawler/archetypes/paizo---brawler-archetypes/mutagenic-mauler" target="_blank">mutagenic mauler</a>) 4<br />
 					CG Medium humanoid (human, orc)<br /><br />
-					<strong>Init</strong> +8; <strong>Senses</strong> darkvision 60 ft.; Perception +6<br />
+					<strong>Init</strong> +8; <strong>Senses</strong> darkvision 60 ft.; Perception +7<br />
 				</p>
 
 				<h2>DEFENSE</h2>
 				<p>
-				<p><strong>AC</strong> 16, touch 12, flat-footed 14 (+4 armor, +2 Dex)<br />
-				<strong>hp</strong> 35 (3d10+9)<br />
+				<p><strong>AC</strong> 17, touch 12, flat-footed 15 (+4 armor, +2 Dex, +1 natural)<br />
+				<strong>hp</strong> 45 (4d10+12)<br />
 
-				<strong>Fort</strong> +5, <strong>Ref</strong> +5, <strong>Will</strong> +2;
+				<strong>Fort</strong> +6, <strong>Ref</strong> +6, <strong>Will</strong> +2;
 				+1 vs. mind-affecting effects</br>
 				<p>
 				<strong>Defensive Abilities</strong> orc ferocity
@@ -65,34 +65,35 @@
 				<p>
 				<p>
 				<strong>Speed</strong> 30 ft.
-				<p><strong>Melee</strong> +1 unarmed strike +8 (1d8+5) or brawler's flurry +7/+7 (1d8+5)<br />
+				<p><strong>Melee</strong> unarmed strike +10 (1d8+5) or brawler's flurry +8/+8 (1d8+5)<br />
+				<strong>Ranged</strong> Javelin +6 (1d6+5) <br />
 
-				<p><strong>Special Attacks</strong> brawler's flurry, maneuver training (grapple+1)
+				<p><strong>Special Attacks</strong> brawler's flurry, maneuver training (grapple+1), knockout 1/day (DC 17)
 				</p>
 
 				<h2>STATISTICS</h2>
 				<p>
-				<p><strong>Str</strong> 20,
+				<p><strong>Str</strong> 21,
 				<strong>Dex</strong> 14,
 				<strong>Con</strong> 14,
 				<strong>Int</strong> 10,
 				<strong>Wis</strong> 10,
 				<strong>Cha</strong> 8</br>
 
-				<strong>Base Atk</strong> +3;
-				<strong>CMB</strong> +8 (+1 grapple);
-				<strong>CMD</strong> 20 (21 vs. grapple)</p>
+				<strong>Base Atk</strong> +4;
+				<strong>CMB</strong> +9 (+10 grapple);
+				<strong>CMD</strong> 21 (22 vs. grapple)</p>
 
-				<p><strong>Feats</strong> Improved Initiative, Improved Unarmed Strike B, Power Attack, Weapon Focus</br>
-				<strong>Skills</strong> Acrobatics +8, Climb +9, Craft (carpentry) +6, Escape-Artist +6, Handle-Animal +3, Intimidate +7, Perception +6, Swin +9</br>
+				<p><strong>Feats</strong> Improved Initiative, Improved Unarmed Strike<sup>B</sup>, Power Attack, Persuasive<sup>B</sup>, Weapon Focus (Unarmed Strike)</br>
+				<strong>Skills</strong> Acrobatics +7, Climb +7, Craft (carpentry) +6, Escape Artist +4, Handle Animal +3, Intimidate +10, Perception +7, Profession (barman) +7, Swin +8</br>
 
 				<p>
 				<strong>Languages</strong> Common, Orc</br>
-				<strong>SQ</strong> brawler's cunning, martial training, mutagen (+2 natural armor, +4 Strength -2 Intelligence OR +4 Constitution -2 Charisma OR +4 Dexterity -2 Wisdom; 30 minutes)
+				<strong>SQ</strong> brawler's cunning, martial training, mutagen (+2 natural armor, +4 Strength -2 Intelligence OR +4 Constitution -2 Charisma OR +4 Dexterity -2 Wisdom; 30 minutes), beastmorph (low-light vision, +10 speed)
 				</br>
 				<strong>Traits</strong> Legacy of Sand, Reactionary, Fed-up Citizen</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> chain</p>
+				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> Amulet of Natural Armor +1, chain shirt, javelin (3)</p>
 			</div>
 
 		</section>

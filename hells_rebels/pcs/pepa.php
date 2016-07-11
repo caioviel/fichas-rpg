@@ -29,81 +29,77 @@
 
 	#character-image{
 		width:100%;
-		margin: -15px 0px 0 75px;
+		margin: -0px 0px 0 0px;
 	}
 </style>
 <div id="wrapper">
 	<div id="aedram-container">
 		<header>
-			<h1>Pepathos Noxxis <span id="cr">Level 3</span></h1>
+			<h1>Pepathos Noxxis <span id="cr">Level 4</span></h1>
 			<h2>Um misteriosa figura coberta por mantos escuros.</h2>
 
 		</header>
 
 		<section id="base-informations">
 			<div class="image-area">
-				<img id="character-image" src="../images/amber.jpg" alt="">
+				<img id="character-image" src="../images/pepa2.png" alt="">
 			</div>
 			<div class="stats-area">
 				<p>
-					Male human conjurer <a href="http://www.d20pfsrd.com/classes/base-classes/witch" target="_blank">Witch (<a href="http://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo---witch-archetypes/alley-witch-witch-archetype" target="_blank">alley witch</a>) 3<br />
-					N Medium outsiders (native)<br /><br />
-					<strong>Init</strong> +8; <strong>Senses</strong> darkvision 60 ft.;Perception +2<br />
+					Male human <a href="http://www.d20pfsrd.com/classes/core-classes/wizard" target="_blank">conjurer</a> 4<br />
+					NG Medium humanoid (human)<br /><br />
+					<strong>Init</strong> +8; <strong>Senses</strong> darkvision 60 ft.; Perception +7<br />
 				</p>
 
 				<h2>DEFENSE</h2>
 				<p>
 				<p><strong>AC</strong> 12, touch 12, flat-footed 10 (+2 Dex)<br />
-				<strong>hp</strong> 16 (3d6)<br />
+				<strong>hp</strong> 29 (4d6+8)<br />
 
-				<strong>Fort</strong> +2, <strong>Ref</strong> +4, <strong>Will</strong> +4;</br>
+				<strong>Fort</strong> +2, <strong>Ref</strong> +3, <strong>Will</strong> +5;</br>
 				<p>
-				<strong>Resistances</strong> acid 5, cold 5, electricity 5
 
 				<h2>OFFENSE</h2>
 				<p>
-				<p>
 				<strong>Speed</strong> 30 ft.
-				<p>	<strong>Melee</strong> dagger +0 (1d4-1/19-20)<br />
-				<strong>Ranged</strong> dagger +3 (1d4-1/19-20)</p>
+				<p>	<strong>Melee</strong> dagger +1 (1d4-1/19-20)<br />
+				<strong>Ranged</strong> dagger +4 (1d4-1/19-20)</p>
 
-				<p><strong>Special Attacks</strong> Evil Eye (DC 16; -2 AC, attacks, saving or skills checks; 8 rounds), Fortune (1 round)
-				</p>
-
-				<p class="collapse"><strong>Emberkin Spell-Like Abilities:</strong> (CL 3rd; concentration +8)</br>
+				<p class="collapse"><strong>Conjuration School Spell-Like Abilities:</strong> (CL 4rd; concentration +9)</br>
 				<p><ul>
-					<li><strong>1/display</strong> - Pyrotechnics (DC 17) </li>
+					<li><strong>8/day</strong> - acid splash (1d6+2 acid) </li>
 				</ul>
 
-				<p class="collapse"><strong>Witch's Spells</strong> (CL 3rd; concentration +8)</br>
+				<p class="collapse"><strong>Wizard's prepared spells</strong> (CL 4rd; concentration +9)</br>
 				<p><ul>
-					<li><strong>2nd </strong> - Can prapare 2 - Aggressive Thundercloud (DC 17), Boiling Blood, Aboleth's Lung, Hold Person (DC 17)</li>
-					<li><strong>1st </strong> - Can prapare  4 - Sow Thought (DC 16), Cure Light Wounds (DC 16), Mage Armor, Adhesive Spittle (DC 16), Burning Hands (DC 16), Nereid's Grace, Command (DC 16), Sleep (DC 16), Charm Person (DC 16), Forced Quiet (DC 16), Urban Grace, Snowball (DC 16), Ears of the City, Enlarge Person</li>
-					<li><strong>0th (at will)</strong> - Can prapare 5 -  all</li>
+					<li><strong>2nd </strong> - Create pit (2, DC 18), Web (DC 18), Acid Arrow, Glitter Dust (DC 18)</li>
+					<li><strong>1st </strong> - mage armor, magic missile (4), vanish, </li>
+					<li><strong>0th (at will)</strong> drench, dancing, lights, resistance, root</li>
 				</ul>
+				<p><strong>Opposition Schools</strong> enchantment, necromancy</br>
 
 				<h2>STATISTICS</h2>
 				<p>
-				<p><strong>Str</strong> 8,
+				<p><strong>Str</strong> 9,
 				<strong>Dex</strong> 14,
-				<strong>Con</strong> 10,
-				<strong>Int</strong> 20,
-				<strong>Wis</strong> 10,
-				<strong>Cha</strong> 16</br>
+				<strong>Con</strong> 12,
+				<strong>Int</strong> 21,
+				<strong>Wis</strong> 12,
+				<strong>Cha</strong> 10</br>
 
-				<strong>Base Atk</strong> +1;
-				<strong>CMB</strong> +0;
-				<strong>CMD</strong> 12</p>
+				<strong>Base Atk</strong> +2;
+				<strong>CMB</strong> +1;
+				<strong>CMD</strong> 13</p>
 
-				<p><strong>Feats</strong> Extra Hex, Craft Wondrous Item</br>
-				<strong>Skills</strong> Appraise +6, Bluff +8, Diplomacy +9, Handle-Animal +6, Knowledge (arcana) +11, Knowledge (geography) +6, Knowledge (history) +4, Knowledge (local) +11, Knowledge (nature) +6, Knowledge (nobility) +6, Knowledge (planes) +14, Knowledge (religion) +7, Sense-Motive +9,  Spellcraft +13, </br>
+				<p><strong>Feats</strong> Alertness<sup>B</sup> Scribe Scroll<sup>B</sup>, Spell Focus (Conjuration), Spell Specialization (Acid Arrow) </br>
+				<strong>Skills</strong> Acrobatics +3, Appraise +11, Bluff +3, Knowledge (arcana) +10, Knowledge (dungeoneering) +9, Knowledge (engineering) +9, Knowledge (geography) +9, Knowledge (history) +9, Knowledge (local) +9, Knowledge (nature) +10, Knowledge (planes) +10, Knowledge (religion) +10, Linguistics +12, Perception +7, Spellcraft +12, Use Magic Device +13</br>
 
 				<p>
-				<strong>Languages</strong> Common, Celestial, Abyssal, Elven, Draconic,Infernal, Sylvan</br>
-				<strong>SQ</strong> Speak to the City (Kintargo), witch's familiar (Scarlet Spider Ruby)</br>
-				<strong>Traits</strong> Child of Kintargo, Good Dreams, Helpul</br>
+				<strong>Languages</strong> Common</br>
+				<strong>SQ</strong> Arcane Bound (Raven familiar), summoner's charm (1 rounds)</br>
+				<strong>Traits</strong> Clever Wordplay (Use Magic Device), Dangerously Curious, Reactionary, Paranoic (Drawback)</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> Spell component pouch, witch's kit, dagger, cloak or resistance +1</p>
+				<p><strong>Combat Gear</strong> Scroll of Daylight, wand of acid arrow (1 charge), scroll of summon monster III, potion of invisibility; <invisibility>Other Gear</strong> dagger, wizard's kit</p>
 			</div>
 
 		</section>

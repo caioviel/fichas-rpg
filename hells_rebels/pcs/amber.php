@@ -35,7 +35,7 @@
 <div id="wrapper">
 	<div id="aedram-container">
 		<header>
-			<h1><img src="../images/Silver_Ravens.png" id="silverRavens">Amber <span id="cr">Level 3</span></h1>
+			<h1><img src="../images/Silver_Ravens.png" id="silverRavens">Amber <span id="cr">Level 4</span></h1>
 			<h2>Uma linda mulher, ruiva e com aparência angelical, possui robes, surrados por viver na rua, mas muito limpos, seu olhos são alaranjados como uma chama, e essa é sua característica mais marcante.</h2>
 
 		</header>
@@ -46,17 +46,17 @@
 			</div>
 			<div class="stats-area">
 				<p>
-					Female Aasimar Emberkin <a href="http://www.d20pfsrd.com/classes/base-classes/witch" target="_blank">Witch (<a href="http://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo---witch-archetypes/alley-witch-witch-archetype" target="_blank">alley witch</a>) 3<br />
+					Female Aasimar Emberkin <a href="http://www.d20pfsrd.com/classes/base-classes/witch" target="_blank">Witch</a> (<a href="http://www.d20pfsrd.com/classes/base-classes/witch/archetypes/paizo---witch-archetypes/alley-witch-witch-archetype" target="_blank">alley witch</a>) 4<br />
 					N Medium outsiders (native)<br /><br />
-					<strong>Init</strong> +8; <strong>Senses</strong> darkvision 60 ft.;Perception +2<br />
+					<strong>Init</strong> +8 (+10 in Kintargo); <strong>Senses</strong> darkvision 60 ft.; Perception +2<br />
 				</p>
 
 				<h2>DEFENSE</h2>
 				<p>
 				<p><strong>AC</strong> 12, touch 12, flat-footed 10 (+2 Dex)<br />
-				<strong>hp</strong> 16 (3d6)<br />
+				<strong>hp</strong> 21 (4d6)<br />
 
-				<strong>Fort</strong> +2, <strong>Ref</strong> +4, <strong>Will</strong> +4;</br>
+				<strong>Fort</strong> +2, <strong>Ref</strong> +4, <strong>Will</strong> +5;</br>
 				<p>
 				<strong>Resistances</strong> acid 5, cold 5, electricity 5
 
@@ -64,22 +64,22 @@
 				<p>
 				<p>
 				<strong>Speed</strong> 30 ft.
-				<p>	<strong>Melee</strong> dagger +0 (1d4-1/19-20)<br />
-				<strong>Ranged</strong> dagger +3 (1d4-1/19-20)</p>
+				<p>	<strong>Melee</strong> dagger +1 (1d4-1/19-20)<br />
+				<strong>Ranged</strong> dagger +4 (1d4-1/19-20)</p>
 
-				<p><strong>Special Attacks</strong> Evil Eye (DC 16; -2 AC, attacks, saving or skills checks; 8 rounds), Fortune (1 round)
+				<p><strong>Special Attacks</strong> Hex (Cackles, Evil Eye [DC 17, -2, 8 rounds], Fortune [1 round])
 				</p>
 
-				<p class="collapse"><strong>Emberkin Spell-Like Abilities:</strong> (CL 3rd; concentration +8)</br>
+				<p class="collapse"><strong>Emberkin Spell-Like Abilities:</strong> (CL 4th; concentration +9)</br>
 				<p><ul>
 					<li><strong>1/day</strong> - Pyrotechnics (DC 17) </li>
 				</ul>
 
-				<p class="collapse"><strong>Witch's Spells</strong> (CL 3rd; concentration +8)</br>
+				<p class="collapse"><strong>Witch's Spells</strong> (CL 4rd; concentration +9)</br>
 				<p><ul>
-					<li><strong>2nd </strong> - Can prapare 2 - Aggressive Thundercloud (DC 17), Boiling Blood, Aboleth's Lung, Hold Person (DC 17)</li>
-					<li><strong>1st </strong> - Can prapare  4 - Sow Thought (DC 16), Cure Light Wounds (DC 16), Mage Armor, Adhesive Spittle (DC 16), Burning Hands (DC 16), Nereid's Grace, Command (DC 16), Sleep (DC 16), Charm Person (DC 16), Forced Quiet (DC 16), Urban Grace, Snowball (DC 16), Ears of the City, Enlarge Person</li>
-					<li><strong>0th (at will)</strong> - Can prapare 5 -  all</li>
+					<li><strong>2nd </strong> - Bone Fists, Glitterdust (DC 17), Hold Person (DC 17)</li>
+					<li><strong>1st </strong> - Adhesive Spittle (DC 16), Burning Hands (DC 16), Enlarge Person, Ice Slick (DC 16), Mage Armor</li>
+					<li><strong>0th (at will)</strong> - Daze (DC 15), Detect Magic, Light, Mending</li>
 				</ul>
 
 				<h2>STATISTICS</h2>
@@ -87,23 +87,23 @@
 				<p><strong>Str</strong> 8,
 				<strong>Dex</strong> 14,
 				<strong>Con</strong> 10,
-				<strong>Int</strong> 20,
+				<strong>Int</strong> 21,
 				<strong>Wis</strong> 10,
 				<strong>Cha</strong> 16</br>
 
-				<strong>Base Atk</strong> +1;
-				<strong>CMB</strong> +0;
-				<strong>CMD</strong> 12</p>
+				<strong>Base Atk</strong> +2;
+				<strong>CMB</strong> +1;
+				<strong>CMD</strong> 13</p>
 
-				<p><strong>Feats</strong> Extra Hex, Craft Wondrous Item</br>
-				<strong>Skills</strong> Appraise +6, Bluff +8, Diplomacy +9, Handle-Animal +6, Knowledge (arcana) +11, Knowledge (geography) +6, Knowledge (history) +4, Knowledge (local) +11, Knowledge (nature) +6, Knowledge (nobility) +6, Knowledge (planes) +14, Knowledge (religion) +7, Sense-Motive +9,  Spellcraft +13, </br>
+				<p><strong>Feats</strong> Craft Wondrous Item, Extra Hex, Persuasive<sup>B</sup></br>
+				<strong>Skills</strong> Appraise +7, Bluff +8, Diplomacy +12, Handle-Animal +6, Heal +5, Knowledge (arcana) +12, Knowledge (geography) +6, Knowledge (history) +9, Knowledge (local) +11, Knowledge (nature) +6, Knowledge (nobility) +6, Knowledge (planes) +15, Knowledge (religion) +8, Sense-Motive +10, Spellcraft +14, Use Magic Device +7</br>
 
 				<p>
 				<strong>Languages</strong> Common, Celestial, Abyssal, Elven, Draconic,Infernal, Sylvan</br>
 				<strong>SQ</strong> Speak to the City (Kintargo), witch's familiar (Scarlet Spider Ruby)</br>
 				<strong>Traits</strong> Affable, Outcast's Intuition, Paranoid (Drawback), Urban Sleuth (Devil’s Bells), Reactionary</br>
 
-				<p><strong>Combat Gear</strong> ; <strong>Other Gear</strong> Spell component pouch, witch's kit, dagger, cloak or resistance +1</p>
+				<p><strong>Combat Gear</strong> Scroll of Hold Person; <strong>Other Gear</strong> Spell component pouch, witch's kit, dagger, cloak or resistance +1</p>
 			</div>
 
 		</section>
