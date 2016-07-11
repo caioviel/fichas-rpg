@@ -89,7 +89,7 @@
 
 				<p>
 				<strong>Languages</strong> Common, Orc</br>
-				<strong>SQ</strong> brawler's cunning, martial training, mutagen (+2 natural armor, +4 Strength -2 Intelligence OR +4 Constitution -2 Charisma OR +4 Dexterity -2 Wisdom; 30 minutes), beastmorph (low-light vision, +10 speed)
+				<strong>SQ</strong> brawler's cunning, martial training, mutagen (+2 natural armor, +4 Strength -2 Intelligence OR +4 Constitution -2 Charisma OR +4 Dexterity -2 Wisdom; 40 minutes), beastmorph (low-light vision, +10 ft.)
 				</br>
 				<strong>Traits</strong> Legacy of Sand, Reactionary, Fed-up Citizen</br>
 
