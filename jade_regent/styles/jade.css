@@ -50,7 +50,16 @@ html, body{
 
 	}
 
-	#aedram-container {
+	#stats {
+		float:left;
+		border: 1px solid #ccc;
+		padding: 20px 15px 30px 15px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		background: #fff;
+		margin-bottom: 30px;
+	}
+
+	#background {
 		float:left;
 		border: 1px solid #ccc;
 		padding: 20px 15px 30px 15px;
@@ -110,3 +119,30 @@ html, body{
 		background:#ccc;
 		padding: 4px;
 	}
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    cursor: help;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 400px;
+    background-color: green;
+    color: #fff;
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px 5px;
+
+    /* Position the tooltip */
+    position: absolute;
+    bottom: 15px;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}

@@ -93,7 +93,7 @@
 				<p><strong>Melee</strong> mwk heavy Mace +5 (1d8+2) <br />
 				<p><strong>Ranged</strong> mwk heavy crossbow +3 (1d10/19-20)<br />
 
-				<p><strong>Special Attacks</strong> Channel Evil 4/day (DC 12, 2d4), Hell's Corruption 7/day
+				<p><strong>Special Attacks</strong> Channel Positive Energy 8/day (DC 15, 3d6)
 				</p>
 
 				<p class="collapse"><strong>Tiefling Spell-Like Abilities:</strong> (CL 3rd; concentration +7)</br>
